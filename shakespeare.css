@@ -18,14 +18,17 @@
     background-color: cadetblue;
     color: darkblue;
 }
-.archidamus {
+.archidamus,.leontes {
     color:darkcyan;
 }
-.camillo {
+.camillo,.polixenes {
     color:darksalmon;
 }
 .rebecca {
     color:darkturquoise;
+}
+.hermione {
+    color:salmon;
 }
 table,
 th,
@@ -39,5 +42,6 @@ td{
     border-spacing: 5px;
     background-color:rosybrown;
 }
+
 
 
