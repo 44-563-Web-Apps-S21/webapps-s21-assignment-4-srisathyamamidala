@@ -27,5 +27,17 @@
 .rebecca {
     color:darkturquoise;
 }
+table,
+th,
+td{
+    border:5px solid purple;
+    border-collapse: collapse;
+    width: auto;
+    margin: left;
+    text-align: center;
+    padding: 23px;
+    border-spacing: 5px;
+    background-color:rosybrown;
+}
 
 
