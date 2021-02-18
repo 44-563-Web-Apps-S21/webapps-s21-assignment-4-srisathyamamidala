@@ -1,0 +1,31 @@
+.speech {
+     font-size: 22px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: black;
+}
+.stage-direction {
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+    background-color:blanchedalmond;
+}
+.name {
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.stage-direction:hover {
+    background-color: cadetblue;
+    color: darkblue;
+}
+.archidamus {
+    color:darkcyan;
+}
+.camillo {
+    color:darksalmon;
+}
+.rebecca {
+    color:darkturquoise;
+}
+
+
